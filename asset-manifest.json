@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/CV-Maker/static/css/main.9ceae314.chunk.css",
-    "main.js": "/CV-Maker/static/js/main.ced81960.chunk.js",
-    "main.js.map": "/CV-Maker/static/js/main.ced81960.chunk.js.map",
+    "main.css": "/CV-Maker/static/css/main.1e88a4c1.chunk.css",
+    "main.js": "/CV-Maker/static/js/main.c7df15ca.chunk.js",
+    "main.js.map": "/CV-Maker/static/js/main.c7df15ca.chunk.js.map",
     "runtime-main.js": "/CV-Maker/static/js/runtime-main.7b50b185.js",
     "runtime-main.js.map": "/CV-Maker/static/js/runtime-main.7b50b185.js.map",
     "static/js/2.10cab1be.chunk.js": "/CV-Maker/static/js/2.10cab1be.chunk.js",
@@ -16,7 +16,7 @@
     "static/js/5.d920d9f1.chunk.js.map": "/CV-Maker/static/js/5.d920d9f1.chunk.js.map",
     "index.html": "/CV-Maker/index.html",
     "static/css/3.081f420c.chunk.css.map": "/CV-Maker/static/css/3.081f420c.chunk.css.map",
-    "static/css/main.9ceae314.chunk.css.map": "/CV-Maker/static/css/main.9ceae314.chunk.css.map",
+    "static/css/main.1e88a4c1.chunk.css.map": "/CV-Maker/static/css/main.1e88a4c1.chunk.css.map",
     "static/js/2.10cab1be.chunk.js.LICENSE.txt": "/CV-Maker/static/js/2.10cab1be.chunk.js.LICENSE.txt",
     "static/js/3.d2c2044e.chunk.js.LICENSE.txt": "/CV-Maker/static/js/3.d2c2044e.chunk.js.LICENSE.txt",
     "static/js/4.f67f4219.chunk.js.LICENSE.txt": "/CV-Maker/static/js/4.f67f4219.chunk.js.LICENSE.txt",
@@ -26,7 +26,7 @@
     "static/js/runtime-main.7b50b185.js",
     "static/css/3.081f420c.chunk.css",
     "static/js/3.d2c2044e.chunk.js",
-    "static/css/main.9ceae314.chunk.css",
-    "static/js/main.ced81960.chunk.js"
+    "static/css/main.1e88a4c1.chunk.css",
+    "static/js/main.c7df15ca.chunk.js"
   ]
 }
